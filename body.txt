@@ -1,0 +1,10 @@
+{
+    "to":"U59eb5f64a4b75979229a636295b8dd8f",
+    "messages":
+    [
+        {
+            "type":"text",
+            "text":"Test From UIPath"
+        }
+        ]
+}
